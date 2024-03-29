@@ -1,0 +1,37 @@
++ Các bài tập nên để riêng từng file code. Ví dụ: Bài 1.py, bài 2.py,...
++ Mỗi bài tập thiếu ảnh hoặc file txt kết quả chạy thử. Từ lab 2 thiếu kết quả sẽ bị trừ 2 điểm tổng bài
++ Code giống bài của bạn Nguyễn Hải Quân và Nguyễn Văn Long?
+
++ Nhận xét và cho điểm từng bài:
+- Bài 1: phần print đã sử dụng dấu 3 nháy nên khi in kết quả ra màn hình sẽ giữ nguyên định dạng toàn bộ đoạn văn
+	 sử dụng vòng lặp for, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 2: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 3: đúng 
+Điểm bài tập: 1.0
+
+- Bài 4: đúng
+Điểm bài tập: 1.0 
+
+- Bài 5: công suất dòng điện = hiệu điện thế x cường độ dòng điện
+Điểm bài tập: 0.75
+
+- Bài 6: sử dụng tuple, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 7: đúng
+Điểm bài tập: 1.0 
+
+- Bài 8: đúng
+Điểm bài tập: 1.0 
+
+- Bài 9: đúng
+Điểm bài tập: 1.0 
+
+- Bài 10: thiếu
+Điểm bài tập: 0.0
+
+Tổng điểm bài tập lab 1: 7.25
