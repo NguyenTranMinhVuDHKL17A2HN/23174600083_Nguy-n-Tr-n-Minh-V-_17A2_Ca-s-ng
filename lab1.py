@@ -106,4 +106,4 @@ print("Tọa độ trung điểm MN:", mnx, mny)
 print("Tọa độ trung điểm NP:", npx, npy)
 print("Tọa độ trung điểm PQ:", pqx, pqy)
 print("Tọa độ trung điểm QM:", qmx, qmy)
-#bai 10
+
