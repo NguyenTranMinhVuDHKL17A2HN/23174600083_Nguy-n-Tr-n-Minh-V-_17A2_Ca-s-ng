@@ -1,0 +1,11 @@
+Nhận xét và cho điểm bài tập lớn:
+Code: Tránh sử dụng biến toàn cục khi không cần thiết
+Điểm: 3.0
+
+File: Xuất được file csv
+Điểm: 4.0
+
+Có ảnh chạy code
+Điểm: 2.0
+
+Điểm bài tập lớn: 9.0
